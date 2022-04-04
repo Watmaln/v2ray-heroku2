@@ -27,11 +27,12 @@
 
 ## 一键部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jone354df465/v2ray-heroku2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Watmaln/v2ray121
+v2ray121 )
 
 ## Github Actions 管理
 
-请 Fork 本项目到自己的账户下。 Actions 需要以下 Secrets 才能正常工作，这些 Secrets 会被 workflow 中的 [jone354df465/v2ray-heroku2](https://github.com/jone354df465/v2ray-heroku2) 使用。
+请 Fork 本项目到自己的账户下。 Actions 需要以下 Secrets 才能正常工作，这些 Secrets 会被 workflow 中的 [jone354df465/v2ray-heroku2](https://github.com/Watmaln/v2ray121) 使用。
 
 具体实现细节，请查看 [workflow 配置文件](./.github/workflows/main.yml).
 
